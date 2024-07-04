@@ -1,6 +1,7 @@
-![MasterHead](https://d2oe9fogqkc3hl.cloudfront.net/static/illustrations/category-pages/computer-science.png)
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedkskn&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedkskn" /> </p>
 
 - 📫 How to reach me **keskinmuhammed49@gmail.com**
 
